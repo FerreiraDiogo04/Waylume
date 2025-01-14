@@ -1,0 +1,7 @@
+{
+  "name": "way-lume",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
